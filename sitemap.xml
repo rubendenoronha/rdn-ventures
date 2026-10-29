@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://rdn.ventures/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://rdn.ventures/card_pax.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/card_shield.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/card_swoop.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/card_tech_dns.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/card_tech_forge.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/card_tech_guard.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/card_tech_relay.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/wide_pax.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/wide_swoop.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/wide_tech_dns.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/wide_tech_forge.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/wide_tech_guard.webp</image:loc></image:image>
+    <image:image><image:loc>https://rdn.ventures/wide_tech_relay.webp</image:loc></image:image>
+  </url>
+</urlset>
